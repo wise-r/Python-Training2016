@@ -11,3 +11,6 @@
 1. Anaconda 配置环境，Python 基础语法的使用
 2. Pandas 第二讲，包括 groupby 对数据的分类汇总，merge 对数据的合并
 3. Pandas 应用实例
+
+###class3-matplotlib
+matplotlib基本绘图示例例
