@@ -1,4 +1,4 @@
-## 2016 - 2017 学年 Python 课程
+﻿## 2016 - 2017 学年 Python 课程
 
 ###class1-Pandas
 数据分析工具 Pandas 使用
@@ -14,3 +14,6 @@
 
 ###class3-matplotlib
 matplotlib基本绘图示例例
+
+###class4-numpy
+numpy数据分析
